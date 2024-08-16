@@ -4,4 +4,4 @@ class Aluno():
         self.nome = nome 
         self.tempoestudo = tempoestudo
         self.rendafamiliar = rendafamiliar
-        
+        cr
