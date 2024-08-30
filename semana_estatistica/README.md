@@ -1,1 +1,0 @@
-# semana_estatistica
